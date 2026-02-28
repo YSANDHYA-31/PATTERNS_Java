@@ -34,6 +34,10 @@ public class Pattern_03 {
         //Lower half (increasing stars)
             for(int i=1; i<=N; i++){
                 for(int j=1; j<=i; j++){
+
+        //Lower half (increasing stars)
+            for(int i=1; i<=N; i++){
+                for(int j=1; j<=i; j++){
                     System.out.print("* ");
                 }
                 System.out.println();
